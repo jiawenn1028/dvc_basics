@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = ssh://jiawen@wiseai.tech/remote
+    url = ssh://jiawen@10.1.1.36/remote
